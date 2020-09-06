@@ -1,0 +1,261 @@
+08-structural:  pond primal alligator ranch
+
+pond primal alligator ranch : pond primal, 08-structural, mom and pop alligator farm
+
+pond primal:  unyielding east gate,  unyielding west gate
+
+pond primal:  unyielding south gate 
+
+pond primal:  unyielding east wall,  unyielding west wall
+
+pond primal:  unyielding south wall
+ 
+unyielding east gate:  pebbled path, 
+
+pebbled path: sphere of nourishment, cottage of sacrifice
+
+pebbled path: esteemed tenement, employed foundation
+
+pebbled path: gate of greatness
+
+gate of greatness : hedged maze 
+
+cottage of sacrifice:
+
+hedged maze: enchanted pools
+
+enchanted pools: bull run one, bull run two  
+
+bull run one:
+
+bull run two:
+
+sphere of nourishment: fredricksburg dominion, chancellorsville dominion 
+
+sphere of nourishment: chattanooga dominion, antetam dominion
+
+fredricksburg dominion:
+
+chancellorsville dominion:
+
+chattanooga dominion:
+
+antetam dominion:
+
+esteemed tenement: trailer jackson, trailer bragg  
+
+esteemed tenement: trailer lee, trailer picket
+
+trailer jackson:
+
+trailer bragg:
+
+trailer lee:
+
+trailer picket:
+
+employed foundation: sufficient prison, locked door
+
+employed foundation: primary office, storage room
+
+sufficient prison:
+
+downstairs labratory: pulstating beam of pure energy 
+
+primary office:
+
+storage room:
+
+path: unyielding east gate, unyielding west gate, pebbled path
+
+path: sphere of nourishment, cottage of sacrifice
+
+path: esteemed tenement, employed foundation
+
+path: gate of greatness, hedged maze 
+
+pulp: pulstating beam of pure energy 
+
+09 peopled: town of hog eye, town of lickskillet
+
+09 peopled: town of blacksher, city of beetriot
+
+09 peopled: town of mallet beatle
+
+hog eye : town of hog eye, 09-peopled
+
+mallet beatle : town of  mallet beatle , 09-peopled
+
+10-institional: basic foundational church
+
+11_political : lixie dixie  
+
+lixie dixie , commonwealth of lixie dixie 
+ 
+12 commerical : googizon, mirrolabs, glopratchet , pond primal 
+
+heaviest portable cassette tape player :  yellow 
+
+mechanically locked door: mechanical lock pulp, mechanical lock path
+
+mechanically locked door pulp: silverlight metal, fiercely inappropriate, sticker 
+
+mechanically locked door path: good time gate locking 
+
+13 tournamental : great gator egg race 
+
+highway to good time gate : good time gate 
+
+path to good time gate : good time gate
+
+good time gate : path to suawannee canal,  stream to prairie of minni 
+
+good time gate : discover feminist scholarship
+
+good time gate : happy cypress tree, wide mechanically locked door
+
+wide mechanically locked door : good time gate locked , good time gate unlocked
+
+happy cypress tree: good time gate
+
+stream to prairie of minni: prairie of minni
+
+discover feminist scholarship: good time gate 
+
+path to suawannee canal: suawannee canal 
+
+suawannee canal: notice gator, notice persona 
+
+suawannee canal: waterway to new island, 
+
+suawannee canal: trail way to suawannee river
+
+suawannee canal: path to goodtime gate 
+
+suawannee canal: discover beauty, 
+
+suawannee canal: gator attack
+
+find treasure in rapid pool : sunken plastic wrapped gloprachetel grimoire
+
+sunken plastic wrapped grimoire : enter kung fu hyperspace 
+
+photograph fierce gator: suawannee canal
+
+suawannee canal: find treasure in rapid pool
+
+battle fierce gator: win battle fierce gator:
+
+suawanne canal
+
+prairie of minni : super gator
+
+sunken plastic wrapped grimoire: 
+
+living gate: path to sapling prairie 
+
+living gate: gaint mechanically locked door
+
+gaint mechanically locked door: living gate locked
+
+gaint mechanically locked door: living gate unlocked
+
+good time gate : good time gate path, good time gate pulp, good time plot  
+
+good time gate path : suawannee canal, prairie of minni 
+
+good time plot : feminist scholarship
+
+good time gate pulp: cypress tree, locked gate
+
+lizard skull plot: gator wrestle
+
+rambling gate:   suawannee river,  camp cornielia, chase prairie  
+
+living gate:     sapling prairie 
+
+sunset gate:     prairie of floyd 
+
+suawannee canal: new island, suawannee river
+
+prairie of minni: lake of minni, big water lake
+
+suawannee river: chase prairie, prairie of minni, sapling prairie, bobcat prairie, prairie of floyd 
+
+camp cornielia: 
+
+chase prairie: island of rosewell, dinner pond, black jack island
+
+island of rosewell: 
+
+the pocket:
+
+black jack island:
+
+prairie of floyd: 
+
+new island: 
+
+lake of minni: islands of minni, strange island
+
+big water lake: 
+
+sapling prairie: pine island, lake of floyd, island of fiddler
+
+bobcat prairie:
+
+islands of minni: 
+
+strange island: 
+
+pine island: 
+
+lake of floyd:  island of floyd, mitcheel island 
+
+island of fiddler: 
+
+island of floyd: soldier camp, boom shaw island, lake of floyd
+
+mitcheel island: 
+
+soldier camp: 
+
+boom shaw island: 
+
+dinner pond: booga boo island, honey island
+
+booga boo island: 
+
+honey island: 
+
+keeping secrets
+
+desire
+
+faradays fields :
+
+constructions by the milkman:
+
+pure perception of modern world:
+
+itsy bitsy microscopic seed :
+
+little turpentine laden paintbrush :
+
+ middle eastern traditions :
+
+supreme wickedness :
+
+think martin codel :
+
+keeping secrets :
+
+falcone naples :
+
+the trustees :
+
+the sun baked  :
+
+rsa robinson :
+
+16 deceptive : pro choice
